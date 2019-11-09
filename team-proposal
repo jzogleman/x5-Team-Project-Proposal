@@ -1,8 +1,19 @@
 Title: Calorie Counter
 Problem: Calorie counter is a useful tool to keep one's health in check. It isn't utilized
 very often and this program will help make it easier to keep track of calories.
-Primary Stakeholder:
-GUI:
-Data Structure:
+Primary Stakeholder: The target audience would be anyone who is trying to change their
+weight
+GUI: Shows pictures of foods and trackers to interact with.
+Data Structure: HashTable with foods organized by letter.
 Input Data File Format:
+Apple, 100
+Banana, 110
+Beef, 260
+Carrot, 20
+Celery, 5
 Output Example:
+Total Calories: 495
+Your Goal this Meal: 500
+Comparison: -5 Calories
+Your Goal for Today: 2000
+Remaining Calories for Today: 1505
